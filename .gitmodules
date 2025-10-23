@@ -1,0 +1,3 @@
+[submodule "tools/waf"]
+	path = tools/waf
+	url = ssh://git@gitlab.rtems.org:2222/rtems/tools/rtems_waf.git
